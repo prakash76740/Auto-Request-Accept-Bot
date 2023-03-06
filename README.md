@@ -1,7 +1,7 @@
 ## 𝗔𝘂𝘁𝗼-Request-𝗔ccept-𝗕𝗼𝘁
 
 <p align="center">
-<a href="https://youtu.be/dAXspAB-xQU"><img src="https://telegra.ph/file/8f810bba085b31e4a6c96.jpg" /></a>
+<a href="https://youtube.com/@TellyWeson"><img src="https://telegra.ph/file/8f810bba085b31e4a6c96.jpg" /></a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <b>𝚅𝙸𝙳𝙴𝙾 𝙾𝙽 𝙼𝚈 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b>
 
 <p align="center">
-  <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
+  <a href="https://youtube.com/@TellyWeson">
         <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
   </p>
 
@@ -25,7 +25,7 @@
 </p>
 
 ### Heruko Deploy
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Auto-Request-Accept-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/prakash76740/Auto-Request-Accapt-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
@@ -43,5 +43,5 @@
 
 <b>`APPROVED_WELCOME_TEXT`</b> : **Approved Welcome Text**
 ### Developer
-- [AutoApprove Bot by Mo Tech](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
-## [Share Support And Subscribe](https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA)
+- [AutoApprove Bot by MoviesMila](https://github.com/prakash76740/Auto-Approved-Bot)
+## [Share Support And Subscribe](https://youtube.com/@TellyWeson)
